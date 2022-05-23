@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taiyeb Nirjhor</h1>
 <h3 align="center">A passionate frontend developer from Dhaka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
-(https://i.ibb.co/QC6Mf8c/banner.png)
-
+()
+<h1 align='center'><img src="https://i.ibb.co/QC6Mf8c/banner.png"></h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiyebnirjhar" alt="taiyebnirjhar" /></a> </p> -->
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I'm 4.543 billion years old since there is no destruction or creation of matter.**
 
 ![GitHub metrics](https://metrics.lecoq.io/taiyebnirjhar) 
-<h1 align='center'><img src="https://metrics.lecoq.io/taiyebnirjhar"></h1>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
