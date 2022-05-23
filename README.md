@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **taiyebnirjhor@gmail.com**
 
-- ⚡ Fun fact: **I'm 4.543 billion years old since there is no destruction or creation of matter.However my contribution to the earth is only 23 years**
+- ⚡ **I'm 4.543 billion years old since there is no destruction or creation of matter. However my contribution to the earth is only 23 years**
 
 
 <h3 align="left">Languages and Tools:</h3>
