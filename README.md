@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I'm 4.543 billion years old since there is no destruction or creation of matter.**
 
 ![GitHub metrics](https://metrics.lecoq.io/taiyebnirjhar) 
-
+<h1 align='center'><img src="https://metrics.lecoq.io/taiyebnirjhar"></h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
