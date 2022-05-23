@@ -16,7 +16,7 @@
 
 - ⚡ **I'm 4.543 billion years old since there is no destruction or creation of matter. However my contribution to the earth is only 23 years**
 
-- 🤖 According to some website **I'am an INTP**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
