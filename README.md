@@ -1,4 +1,4 @@
-<h1 align="center">Hi Dev's👋,myself Taiyeb Nirjhor</h1>
+<h1 align="center"> Hi  Dev's 👋 , myself  Taiyeb  Nirjhor  </h1>
 <p align="center">A passionate frontend developer and  javaScript Fanboi, haha. mostly focused on building interactive and beautifull UI's. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
 
