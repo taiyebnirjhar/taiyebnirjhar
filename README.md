@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taiyeb Nirjhor</h1>
-<h3 align="center">A passionate frontend developer from Dhaka</h3>
+<h1 align="center">Hi Dev's👋,myself Taiyeb Nirjhor</h1>
+<p align="center">A passionate frontend developer and a javaScript Fanboi,haha. </br> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
 
 <h1 align='center'><img src="https://i.ibb.co/QC6Mf8c/banner.png"></h1>
