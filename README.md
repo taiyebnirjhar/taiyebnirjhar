@@ -14,8 +14,8 @@
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-<!-- 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/> -->
 :e-mail: &emsp;How to reach me: taiyebnirjhor@gmail.com.<br/>
+<!-- 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/> -->
 <!-- ⚡ &emsp;Fun fact: -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/taiyebnirjhar)  -->
