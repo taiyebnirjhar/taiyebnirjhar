@@ -41,7 +41,34 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> 
   </a>
 </p>
+    
+    
+    
+### My Projects & Ventures
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Demo</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Responsive Resume</td>
+      <td>build with vanila css and javascipt</td>
+      <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
+    </tr>
+     <tr>
+      <td>Core talks landing page</td>
+      <td>Layout Designed with Bootstrap</td>
+      <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
+    </tr>
+  </tbody>
+</table>    
+    
+    
 <!---------->
 #### Visitors 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
