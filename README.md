@@ -1,70 +1,70 @@
-<!---------->
+<!------------------------------------------------------>
 <h1 align='center'><img src="https://i.ibb.co/QC6Mf8c/banner.png"></h1>
 <!---------->
-<h2 align="left"> Hi  Dev's 👋</h2>
+
+## Hello Dev's <img src="assets/hello.gif" width="28px" alt="hi">
+
 <p align="left">I am Taiyeb nirjhor, a passionate web developer and javaScript Fanboi, haha. mostly focused on building interactive and beautifull UI's. </p>
+
 <!---------->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
 
+:coffee: &emsp;Connect with me!
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdtaiyebnirjhor)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiyeb-nirjhor/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiyebnirjhor@gmail.com)
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+<!-- 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/> -->
+:e-mail: &emsp;How to reach me: taiyebnirjhor@gmail.com.<br/>
+<!-- ⚡ &emsp;Fun fact: -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/taiyebnirjhar)  -->
 
+#### Things I code with
 
-![GitHub metrics](https://metrics.lecoq.io/taiyebnirjhar) 
-- 🌱 I’m currently learning **React in-depth**
-
-- 💬 Ask me about **web development / javascript**
-
-- 📫 Reach me at **taiyebnirjhor@gmail.com**
-
-- ⚡ **I'm 4.543 billion years old since there is no destruction or creation of matter. However my contribution to the earth is only 23 years**
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
-  <!--  react  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-<!--  tailwind  -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-<!-- sass-->
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+ <!--js-->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
   </a> 
 <!--  git  -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
   </a> 
 <!-- linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> 
   </a>
+</p>
+
+<!---------->
+#### Visitors 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taiyebnirjhar&label=Profile%20views&color=0e75b6&style=flat" alt="taiyebnirjhar" /> </p>
+<!------------------------------------------------------>
+
+<details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<br >
+
+#### Github Stats
+
+![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=tokyonight&hide=contribs,prs)
   
-  <!--js-->
- <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> -->
-  <!--css-->
-  <!--  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>  --> 
-</p>
+![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
 
 
-<p>&nbsp;<img align="center" width='70%' height="55%"  src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&show_icons=true&locale=en" alt="taiyebnirjhar" /></p>
+ 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&locale=en&layout=compact" alt="taiyebnirjhar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiyebnirjhar&" alt="taiyebnirjhar" /></p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taiyeb-nirjhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiyeb-nirjhor" height="30" width="40" /></a>
-<a href="https://fb.com/mdtaiyebnirjhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtaiyebnirjhor" height="30" width="40" /></a>
-</p>
 
 
