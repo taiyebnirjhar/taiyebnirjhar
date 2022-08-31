@@ -4,7 +4,7 @@
 
 ## Hello Dev's <img src="assets/hello.gif" width="28px" alt="hi">
 
-<p align="left">I am Taiyeb nirjhor, a passionate web developer and javaScript Fanboi, haha. mostly focused on building interactive and beautifull UI's. </p>
+<p align="left">I am Taiyeb Nirjhor, a passionate web developer and javaScript Fanboi, haha. mostly focused on building interactive and beautifull UI's. </p>
 
 <!---------->
 
