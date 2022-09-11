@@ -42,10 +42,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
   </a> 
-    <!-- cloudflare -->
+    <!-- cloudflare 
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="linux" width="25" height="25"/> 
-  </a>
+  </a> -->
 <!-- linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> 
