@@ -77,6 +77,11 @@
       <td>Layout Designed with Bootstrap</td>
       <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
     </tr>
+    <tr>
+      <td>Koders: quiz</td>
+      <td>Layout Designed with tailwind and react</td>
+      <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
+    </tr>
   </tbody>
 </table>    
     
