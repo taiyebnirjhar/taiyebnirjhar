@@ -68,24 +68,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>Responsive Resume</td>
-      <td>build with vanila css and javascipt</td>
-      <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
+      <td>pathshala-official</td>
+      <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
+      <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
-     <tr>
+   <tr>
+      <td>Koders: quiz app</td>
+      <td>Layout Designed with tailwind and react</td>
+      <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+   <tr>
       <td>Core talks landing page</td>
       <td>Layout Designed with Bootstrap</td>
       <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>Koders: quiz app</td>
-      <td>Layout Designed with tailwind and react</td>
-      <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
-    </tr>
-    <tr>
-      <td>pathshala-official</td>
-      <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
-      <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
+      <td>Responsive Resume</td>
+      <td>build with vanila css and javascipt</td>
+      <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
     </tr>
   </tbody>
 </table>    
