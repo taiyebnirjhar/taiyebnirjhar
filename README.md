@@ -27,7 +27,7 @@
 
 
 
-<h4 align="left">Tools:</h4>
+<h4 align="left">Tools && Environment:</h4>
 <p align="left"> 
  <!--js-->
   <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -56,7 +56,7 @@
     
     
     
-#### My Projects & Ventures
+#### My Projects && Ventures
 
 <table>
   <thead align="center">
