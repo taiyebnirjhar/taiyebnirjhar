@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td>pathshala-official</td>
-      <td> build with ui: react, react-router-dom, firebase and tailwind server: express   </td>
+      <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
   </tbody>
