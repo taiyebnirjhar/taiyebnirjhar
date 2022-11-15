@@ -67,6 +67,11 @@
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td>tastebuds-official</td>
+      <td> MERN stack mini project   </td>
+      <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
+    </tr>
     <tr>
       <td>pathshala-official</td>
       <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
