@@ -92,7 +92,7 @@
     </tr>
      <tr>
       <td>Tailwind</td>
-      <td>Ma-er-dua Gym <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a>   </td>
+      <td>Ma-er-dua Gym: Excercise Time Calculator <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a>   </td>
       <td><a href="https://eightthassignment.netlify.app/" target="_blank">Live</a></td>
     </tr>
     <!-- <tr>
