@@ -74,13 +74,13 @@
     </tr>
     <!--  -->
     <tr>
-      <td>React and firebase auth</td>
+      <td>React and Firebase Auth</td>
       <td> Pathshala-offical: Ed Tech Plateform ----- <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
-      <td>Koders: quiz app</td>
-      <td>Layout Designed with tailwind and react</td>
+      <td>React and Api ----- <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
+      <td>Koders: Quiz Test</td>
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
