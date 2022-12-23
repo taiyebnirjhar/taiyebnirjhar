@@ -74,8 +74,8 @@
     </tr>
     <!--  -->
     <tr>
-      <td>pathshala-official</td>
-      <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
+      <td>React and firebase auth</td>
+      <td> Pathshala-offical: Ed Tech Plateform ----- <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
