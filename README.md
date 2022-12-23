@@ -55,7 +55,7 @@
     
     
     
-#### My Projects && Ventures
+#### Stack Based Projects
 
 <table>
   <thead align="center">
