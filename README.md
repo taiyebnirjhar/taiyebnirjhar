@@ -84,22 +84,25 @@
       <td>Koders: Quiz Test <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
+    <!-- React -->
+     <tr>
+      <td>React</td>
+      <td>Ma-er-dua Gym: Excercise Time Calculator <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a>   </td>
+      <td><a href="https://eightthassignment.netlify.app/" target="_blank">Live</a></td>
+    </tr>
     <!-- Bootstrap -->
    <tr>
       <td>Bootstrap</td>
       <td>Core Talks: Ed-Tech Landing Page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
       <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
     </tr>
-     <tr>
-      <td>Tailwind</td>
-      <td>Ma-er-dua Gym: Excercise Time Calculator <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a>   </td>
-      <td><a href="https://eightthassignment.netlify.app/" target="_blank">Live</a></td>
-    </tr>
-    <!-- <tr>
+
+<!-- <tr>
       <td>Responsive Resume</td>
       <td>build with vanila css and javascipt</td>
       <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
     </tr> -->
+
   </tbody>
 </table>    
     
