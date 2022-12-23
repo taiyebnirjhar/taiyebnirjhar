@@ -108,6 +108,12 @@
       <td>FIFA Qatar : worldcup news <span><a href="https://github.com/taiyebnirjhar/Qatar-worldcup-news-html-css" target="_blank">Source</a>   </td>
       <td><a href="https://taiyebnirjhar.github.io/World-Cup-Qatar-2022-FIFA/" target="_blank">Live</a></td>
     </tr>
+    <!-- Html -->
+    <tr>
+      <td>Html</td>
+      <td>Stay With Sylhet : NONE RESPONSIVE <span><a href="https://github.com/taiyebnirjhar/none-responsive-landingpage-figma-to-webpage" target="_blank">Source</a>   </td>
+      <td><a href="https://taiyebnirjhar.github.io/stay-with-sylhet/" target="_blank">Live</a></td>
+    </tr>
 
 <!-- <tr>
       <td>Responsive Resume</td>
