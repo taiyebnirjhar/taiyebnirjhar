@@ -79,8 +79,8 @@
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
-      <td>React and Api ----- <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
-      <td>Koders: Quiz Test</td>
+      <td>React and Api </td>
+      <td>Koders: Quiz Test ----- <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
