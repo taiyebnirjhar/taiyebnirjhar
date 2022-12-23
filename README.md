@@ -69,7 +69,7 @@
   <!-- MERN Stack -->
    <tr>
       <td>MERN Stack</td>
-      <td> Tasetebuds: Food Review: <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
+      <td> Tasetebuds: Food Review ----- <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
       <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
     </tr>
     <!--  -->
