@@ -99,8 +99,8 @@
      <!-- Css -->
    <tr>
       <td>Css</td>
-      <td>Core Talks: Ed-Tech Landing Page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
-      <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
+      <td>FIFA Qatar : worldcup news <span><a href="https://github.com/taiyebnirjhar/Qatar-worldcup-news-html-css" target="_blank">Source</a>   </td>
+      <td><a href="https://taiyebnirjhar.github.io/World-Cup-Qatar-2022-FIFA/" target="_blank">Live</a></td>
     </tr>
 
 <!-- <tr>
