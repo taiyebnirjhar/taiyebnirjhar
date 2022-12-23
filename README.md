@@ -69,18 +69,18 @@
   <!-- MERN Stack -->
    <tr>
       <td>MERN Stack</td>
-      <td> Tasetebuds: Food Review ----- <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
+      <td> Tasetebuds: Food Review <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
       <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
     </tr>
     <!--  -->
     <tr>
       <td>React and Firebase Auth</td>
-      <td> Pathshala-offical: Ed Tech Plateform ----- <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
+      <td> Pathshala-offical: Ed Tech Plateform <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
       <td>React and Api </td>
-      <td>Koders: Quiz Test ----- <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
+      <td>Koders: Quiz Test <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
