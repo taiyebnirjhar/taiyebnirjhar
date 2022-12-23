@@ -11,11 +11,12 @@
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdtaiyebnirjhor)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiyeb-nirjhor/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiyebnirjhor@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdtaiyebnirjhor) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiyeb-nirjhor/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiyebnirjhor@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: taiyebnirjhor@gmail.com.<br/>
+
 <!-- 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/> -->
 <!-- ⚡ &emsp;Fun fact: -->
 
@@ -23,9 +24,7 @@
 
 #### Things I code with
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
-
-
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 
 <h4 align="left">Tools && Environment:</h4>
 <p align="left"> 
@@ -61,17 +60,19 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
+      <td><b>Section</b></td>
+      <td><b>Project</b></td>
       <td><b>Demo</b></td>
     </tr>
   </thead>
   <tbody>
+  <!-- MERN Stack -->
    <tr>
-      <td>tastebuds-official</td>
-      <td> MERN stack mini project   </td>
+      <td>MERN Stack</td>
+      <td> Tasetebuds: Food Review <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a> <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
       <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
     </tr>
+    <!--  -->
     <tr>
       <td>pathshala-official</td>
       <td> build with ui: react, react-router-dom, firebase, tailwind and server: express   </td>
@@ -111,14 +112,7 @@
 #### Github Stats
 
 ![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=tokyonight&hide=contribs,prs)
-  
+
 ![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
- 
-
-
-
-
