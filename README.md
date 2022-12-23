@@ -84,8 +84,8 @@
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
    <tr>
-      <td>Core talks landing page</td>
-      <td>Layout Designed with Bootstrap</td>
+      <td>Bootstrap</td>
+      <td>Core Talks: ed-tech landing page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
       <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
     </tr>
     <tr>
