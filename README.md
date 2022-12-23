@@ -92,7 +92,7 @@
     </tr>
     <!-- MERN -->
      <tr>
-      <td>MERN Stack</td>
+      <td>MERN and Tailwind</td>
       <td>Biki-kini: Buy Sell Online <span><a href="https://github.com/taiyebnirjhar/Biki-kini-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/biki-kini-server" target="_blank">Server</a></span> </td>
       <td><a href="https://bikikini-official.firebaseapp.com/" target="_blank">Live</a></td>
     </tr>
