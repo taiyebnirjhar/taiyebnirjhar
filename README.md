@@ -66,33 +66,40 @@
     </tr>
   </thead>
   <tbody>
-  <!-- MERN Stack -->
+   <!-- MERN Stack -->
    <tr>
       <td>MERN Stack</td>
       <td> Tasetebuds: Food Review <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
       <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
     </tr>
-    <!--  -->
+    <!-- React and Firebase  -->
     <tr>
       <td>React and Firebase Auth</td>
       <td> Pathshala-offical: Ed Tech Plateform <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
       <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
     </tr>
+    <!-- React and API -->
    <tr>
-      <td>React and Api </td>
+      <td>React and API </td>
       <td>Koders: Quiz Test <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a>   </td>
       <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
     </tr>
+    <!-- Bootstrap -->
    <tr>
       <td>Bootstrap</td>
-      <td>Core Talks: ed-tech landing page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
+      <td>Core Talks: Ed-Tech Landing Page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
       <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
     </tr>
-    <tr>
+     <tr>
+      <td>Tailwind</td>
+      <td>Ma-er-dua Gym <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a>   </td>
+      <td><a href="https://eightthassignment.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+    <!-- <tr>
       <td>Responsive Resume</td>
       <td>build with vanila css and javascipt</td>
       <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>    
     
