@@ -144,4 +144,7 @@
 
 ![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+![taiyeb nirjhor's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={taiyebnirjhar}&theme={github_dark})
+
+
 </details>
