@@ -146,5 +146,18 @@
 
 ![taiyeb nirjhor's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={taiyebnirjhar}&theme={github_dark})
 
+<div align="center">
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=github_dark" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiyebnirjhar&theme=github_dark" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiyebnirjhar&theme=dracula" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiyebnirjhar&theme=github_dark&utcOffset=8" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=github_dark" width="900"/>
+</div>
 
 </details>
