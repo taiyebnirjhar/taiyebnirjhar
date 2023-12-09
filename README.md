@@ -140,24 +140,29 @@
 
 #### Github Stats
 
-![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![taiyeb nirjhor's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={taiyebnirjhar}&theme={github_dark})
+<br >
 
 <div align="center">
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=github_dark" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=dracula" width="400"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiyebnirjhar&theme=github_dark" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiyebnirjhar&theme=dracula" width="400"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiyebnirjhar&theme=dracula" width="400"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiyebnirjhar&theme=github_dark&utcOffset=8" width="400"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=github_dark" width="900"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiyebnirjhar&theme=dracula&utcOffset=8" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=dracula" width="900"/>
+</div>
+
+<div align="center">
+
+![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs)
 </div>
 
 </details>
