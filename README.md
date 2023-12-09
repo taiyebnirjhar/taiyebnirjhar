@@ -152,7 +152,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=dracula" width="900"/>
 </div> -->
 
-<div align="center">
+<div align="">
 
 ![taiyeb nirjhor's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=dracula&hide=contribs,prs)
 
