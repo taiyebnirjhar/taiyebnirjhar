@@ -53,78 +53,7 @@
  
   
 </p>
-    
-    
-    
-#### Stack Based Projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Section</b></td>
-      <td><b>Project</b></td>
-      <td><b>Demo</b></td>
-    </tr>
-  </thead>
-  <tbody>
-   <!-- MERN Stack -->
-   <tr>
-      <td>MERN Stack</td>
-      <td> Tasetebuds: Food Review <span><a href="https://github.com/taiyebnirjhar/Taste-buds-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Taste-buds-server" target="_blank">Server</a></span> </td>
-      <td><a href="https://tastebuds-official.web.app/" target="_blank">Live</a></td>
-    </tr>
-    <!-- React and Firebase  -->
-    <tr>
-      <td>React and Firebase Auth</td>
-      <td> Pathshala-offical: Ed Tech Plateform <span><a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/Pathshala-client" target="_blank">Server</a></span> </td>
-      <td><a href="https://pathshala-official.web.app/" target="_blank">Live</a></td>
-    </tr>
-    <!-- React and API -->
-   <tr>
-      <td>React and API </td>
-      <td>Koders: Quiz Test <span><a href="https://github.com/taiyebnirjhar/koders" target="_blank">Source</a> </span>  </td>
-      <td><a href="https://gleeful-palmier-5779c5.netlify.app/" target="_blank">Live</a></td>
-    </tr>
-    <!-- React -->
-     <tr>
-      <td>React and Tailwind</td>
-      <td>Ma-er-dua Gym: Excercise Time Calculator <span><a href="https://github.com/taiyebnirjhar/excercise-time-calulator-react" target="_blank">Source</a> </span>  </td>
-      <td><a href="https://eightthassignment.netlify.app/" target="_blank">Live</a></td>
-    </tr>
-    <!-- MERN -->
-     <tr>
-      <td>MERN and Tailwind</td>
-      <td>Biki-kini: Buy Sell Online <span><a href="https://github.com/taiyebnirjhar/Biki-kini-client" target="_blank">Client</a>   <a href="https://github.com/taiyebnirjhar/biki-kini-server" target="_blank">Server</a></span> </td>
-      <td><a href="https://bikikini-official.firebaseapp.com/" target="_blank">Live</a></td>
-    </tr>
-    <!-- Bootstrap -->
-   <tr>
-      <td>Bootstrap</td>
-      <td>Core Talks: Ed-Tech Landing Page <span><a href="https://github.com/taiyebnirjhar/core-talks-bootstrap-landingpage" target="_blank">Source</a>   </td>
-      <td><a href="https://taiyebnirjhar.github.io/Core-talks-edu/" target="_blank">Live</a></td>
-    </tr>
-     <!-- Css -->
-   <tr>
-      <td>Css</td>
-      <td>FIFA Qatar : worldcup news <span><a href="https://github.com/taiyebnirjhar/Qatar-worldcup-news-html-css" target="_blank">Source</a>   </td>
-      <td><a href="https://taiyebnirjhar.github.io/World-Cup-Qatar-2022-FIFA/" target="_blank">Live</a></td>
-    </tr>
-    <!-- Html -->
-    <tr>
-      <td>Html</td>
-      <td>Stay With Sylhet : NONE RESPONSIVE <span><a href="https://github.com/taiyebnirjhar/none-responsive-landingpage-figma-to-webpage" target="_blank">Source</a>   </td>
-      <td><a href="https://taiyebnirjhar.github.io/stay-with-sylhet/" target="_blank">Live</a></td>
-    </tr>
-
-<!-- <tr>
-      <td>Responsive Resume</td>
-      <td>build with vanila css and javascipt</td>
-      <td><a href="https://taiyebnirjhar.github.io/responsive-resume-site/" target="_blank">Live</a></td>
-    </tr> -->
-
-  </tbody>
-</table>    
-    
+       
     
 <!---------->
 #### Visitors 
