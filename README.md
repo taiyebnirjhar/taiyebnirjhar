@@ -6,7 +6,7 @@
 
 # 🔥 Taiyeb Nirjhor  
 ### *Front-End Developer | Software Engineer*  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Building+Innovative+Web+Apps;User-Friendly+and+Optimized+Interfaces;Code+Craftsmanship+for+Better+Software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Building+Innovative+Web+Apps;User-Friendly+and+Optimized+Interfaces;Code+Craftsmanship+for+Better+Software)
 
 
 </div> 
