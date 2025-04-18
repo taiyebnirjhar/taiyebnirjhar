@@ -49,7 +49,7 @@ const aboutMe = () => ({
 
 ---
 
-## 💼  Experience  
+## 💼 Work Experience  
 
 <details>
   <summary><strong>👨‍💻 Zorg IT Group</strong> — <em>Frontend Lead (Full-Time)</em> | <code>Dec 2024 – Present</code></summary>
