@@ -1,4 +1,8 @@
 <meta name="google-site-verification" content="z7rbW8-qAzZ5m1uNMk_J-P63Op-dKCPl589nLk_2G8Y" />
+<meta property="og:title" content="Taiyeb Nirjhor - Frontend Developer">
+<meta property="og:description" content="Building innovative web apps with React, Next.js, and TypeScript.">
+<meta property="og:url" content="https://taiyebnirjhar.web.app">
+
 
 <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/68747470733a2f2f692e6962622e636f2f446b66477356722f556e7469746c65642d64657369676e2d332e706e67-Zmgd6qyi2Sr6GSwJuIRp0x8AutXfGy.png" alt="Taiyeb Nirjhor" width="100%" />
 
@@ -11,11 +15,8 @@
 
 </div> 
 
-
- 
-
 <div align="center">
-  <a href="https://taiyebnirjhor.dev" target="_blank">
+  <a href="https://taiyebnirjhar.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/mdtaiyebnirjhor" target="_blank">
@@ -40,12 +41,71 @@ const aboutMe = () => ({
   softSkills: ["Clean Code", "System Design", "Software Engineering Principles"],
 });
 ```
-
 ### ❤️ Wanna Know more ?
 
 - 💻 I enjoy programming and sharing knowledge.
 - 🖥️ Most used line of code: `console.log("Hello, World!")`
 - 📩 How to reach me: **taiyebnirjhor@gmail.com**
+
+---
+
+## 💼  Experience  
+
+<details>
+  <summary><strong>👨‍💻 Zorg IT Group</strong> — <em>Frontend Lead (Full-Time)</em> | <code>Dec 2024 – Present</code></summary>
+<br>
+
+- **Tech Stack:** React.js, Next.js, TypeScript, Redux, Hugging Face
+- 🌍 Led frontend development for **"HeyJabi"**, an international e-commerce platform.
+- 🔗 Implemented APIs and optimized UI components for performance.
+- 🐞 Resolved critical bugs, improving system stability and reliability.
+- 📈 Currently building a CMS for user management, articles, and services.
+- 🤖 Integrated AI-powered features like customer support and business insights.
+
+</details>
+
+<details>
+  <summary><strong>💼 B-Block</strong> — <em>React Developer (Full-Time)</em> | <code>Apr 2023 – Mar 2025</code></summary>
+<br>
+
+- **Tech Stack:** React.js, Next.js, TypeScript, Redux
+- 🚀 Led major projects: CV Builder, Grocery POS, Restaurant POS, and eCommerce platform.
+- 📈 Boosted user engagement by **20%** and improved retention by **25%**.
+- ⚡ Optimized page load speed by **30%**, enhancing SEO performance.
+- 🛠️ Streamlined resume creation with **15+ templates**, improving build efficiency by **25%**.
+- 💰 Reduced POS transaction errors by **40%**, increasing online sales by **50%**.
+- 📅 Delivered projects **20% ahead of schedule**, cutting costs by **15%**.
+
+</details>
+
+<details>
+  <summary><strong>🌐 China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code>Nov 2022 – Sep 2023</code></summary>
+<br>
+
+- **Tech Stack:** Next.js, Tailwind CSS, Firebase
+- ⚡ Optimized e-commerce platform using **code splitting** and **caching**.
+- 🔧 Reduced redundant API calls, increasing performance efficiency.
+- 📱 Developed fully responsive UI components for various screen sizes.
+- 🐞 Fixed UI overflow issues that affected 30% of users.
+- ⏱️ Delivered key features under tight deadlines, ensuring timely delivery.
+
+
+</details>
+
+<details>
+  <summary><strong>🧠 ITO Digital Agency</strong> — <em>Frontend Developer (Contract)</em> | <code>Feb 2023 – Apr 2023</code></summary>
+
+<br>
+
+- **Tech Stack:** React.js, Context API, Vite, Netlify
+- 🎯 Developed **10+ SPAs**, significantly boosting user interaction.
+- 🔝 Contributed to **100+ client growth** through compelling web solutions.
+- 🚀 Led frontend builds with **React.js** and **Vite** for seamless UX.
+- 🌐 Revamped the agency's **official website**, enhancing brand presence.
+- 📊 Maintained strong remote workflows with Git and effective feedback loops.
+
+
+</details>
 
 ---
 
@@ -83,93 +143,6 @@ const aboutMe = () => ({
 
 ---
 
-## 💼  Experience  
-
-<table>
-  <thead>
-    <tr>
-      <th>🏢 Company</th>
-      <th>🎭 Role</th>
-      <th>⏳ Duration</th>
-      <th>⚡ Tech Stack</th>
-      <th>🔥 Contribution</th>
-    </tr>
-  </thead>
-
- <tr>
-    <td><strong>Zorg IT Group</strong></td>
-    <td>Frontend Lead (Full-Time)</td>
-    <td>12/24 - Present</td>
-    <td>React.js, Next.js, TypeScript, Redux, Hugging Face, and more</td>
-    <td>
-      <ul>
-        <li>🌍 Led frontend development for <strong>"HeyJabi"</strong>, an international e-commerce platform.</li>
-        <li>🔗 Implemented APIs and optimized UI components for better performance.</li>
-        <li>🐞 Resolved critical bugs, improving system stability and reliability.</li>
-        <li>📈 Currently building a CMS-based business solution for user management, articles, and services.</li>
-        <li>🤖 Integrated AI-powered features such as customer service and business insights.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>B-Block</strong></td>
-    <td>React Developer (Full-Time)</td>
-    <td>04/23 - 03/25</td>
-    <td>React.js, Next.js, TypeScript, Redux, and more</td>
-    <td>
-      <ul>
-        <li>🚀 Led projects: CV Builder, Grocery POS, Restaurant POS, and eCommerce platform.</li>
-        <li>📈 Boosted user engagement by <strong>20%</strong> and improved retention by <strong>25%</strong>.</li>
-        <li>⚡ Optimized page load times by <strong>30%</strong>, increasing SEO traffic.</li>
-        <li>🛠️ Streamlined CV creation with <strong>15+ templates</strong>, improving efficiency by <strong>25%</strong>.</li>
-        <li>💰 Reduced POS transaction errors by <strong>40%</strong> and increased online sales by <strong>50%</strong>.</li>
-        <li>📅 Delivered projects <strong>20% ahead of schedule</strong>, cutting costs by <strong>15%</strong>.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>China Online BD</strong></td>
-    <td>Assistant Frontend Dev</td>
-    <td>11/22 - 09/23</td>
-    <td>Next.js, Tailwind, Firebase, and more</td>
-    <td>
-      <ul>
-        <li>⚡ Optimized e-commerce platform with <strong>code splitting</strong> and <strong>caching</strong>.</li>
-        <li>🔧 Reduced API calls and improved platform efficiency.</li>
-        <li>📱 Developed responsive UI components for better user experience.</li>
-        <li>🐞 Fixed UI overflow issues, impacting 30% of users.</li>
-        <li>⏱️ Delivered key features under tight deadlines, ensuring timely project completion.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>ITO Digital Agency</strong></td>
-    <td>Frontend Dev (Contract)</td>
-    <td>02/23 - 04/23</td>
-    <td>React.js, Context API, Vite, and more</td>
-    <td>
-      <ul>
-        <li>🎯 Developed <strong>10+ SPAs</strong>, increasing user engagement.</li>
-        <li>🔝 Contributed to a <strong>100+ client increase</strong> with compelling web solutions.</li>
-        <li>🚀 Led frontend development using <strong>React.js</strong>, <strong>Vite</strong>, and <strong>Netlify</strong> for seamless UX.</li>
-        <li>🌐 Revamped the agency's <strong>official website</strong>, boosting brand visibility.</li>
-        <li>📊 Maintained high remote work standards with effective version control and feedback.</li>
-      </ul>
-    </td>
-  </tr>
-
- 
-</table>
-
-
-
-
-
----
-
 ### 📊 Profile Stats
 
 <p align="left">
@@ -194,8 +167,6 @@ const aboutMe = () => ({
     </table>
 
    <br>
-
-   
    
    <table>
       <tr>
@@ -215,7 +186,6 @@ const aboutMe = () => ({
 
    <br>
 
-
    <table>
       <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=dracula&hide=contribs,prs" width="400"/></td>
@@ -225,7 +195,6 @@ const aboutMe = () => ({
 
    <br>
 
-    
    <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=taiyebnirjhar&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
     </div>
