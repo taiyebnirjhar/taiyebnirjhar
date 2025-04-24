@@ -143,6 +143,118 @@ A next-gen productivity app that combines **spatial task mapping** with an AI as
 
 </details>
 
+<details>
+  <summary><strong>Photo Form</strong> — <em>Professional Photo Editing Made Easy</em></summary>
+  <br>
+
+- **Live Demo:** [photo-form.vercel.app](https://photo-form.vercel.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/photo-form](https://github.com/taiyebnirjhar/photo-form)
+- **Tech Stack:** Next.js, Tailwind CSS, Sharp, html2canvas, Radix UI, Framer Motion
+
+### 📌 Overview
+Photo Form is a web application designed to help users effortlessly create professional, polished photos. With a few clicks, users can remove backgrounds, adjust image sizes, add custom backgrounds, and integrate formal elements like suits to enhance the image. The app is currently an MVP but provides a solid foundation for future enhancements.
+
+### 🧩 Key Features
+- **Background Removal:** Automatically remove the background of any uploaded image with ease.
+- **Image Adjustments:** Resize, reposition, and apply custom backgrounds to personalize the photo.
+- **Element Integration:** Add formal attire like suits to turn any casual image into a professional-looking photo.
+- **Customizable Backgrounds:** Choose from a variety of predefined backgrounds or upload your own for complete personalization.
+- **Screen Size Selection:** Tailor the output photo for various devices, including desktop, tablet, and mobile, ensuring the perfect fit for any platform.
+
+> ⚠️ **Note:** The project is an MVP and currently features limited functionality. Future updates will expand on these features to improve user experience and customization.
+
+### ⚙️ Engineering Wins
+- **Seamless Background Removal:** Integrated a third-party API to automate background removal with high accuracy.
+- **Image Processing Power:** Used **Sharp** and **html2canvas** for fast and reliable image processing and rendering.
+- **Responsive Design:** Fully responsive UI, designed with **Tailwind CSS**, ensures smooth interactions across devices and screen sizes.
+- **Smooth Animations:** Incorporates **Framer Motion** for fluid and engaging transitions and interactions.
+
+### 📈 Impact & Vision
+- Streamlines the process of creating professional-looking photos, making it accessible to everyone.
+- Future versions will introduce additional features such as advanced image editing, more formal clothing options, and higher-quality image processing.
+- Aims to serve as a simple and efficient tool for creating polished photos without the need for expensive software or professional assistance.
+
+</details>
+
+<details>
+  <summary><strong>Pathshala Official</strong> — <em>Modern Educational Platform</em></summary>
+  <br>
+
+- **Live Demo:** [pathshala-official.web.app](https://pathshala-official.web.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/pathshala-official](https://github.com/taiyebnirjhar/pathshala-official)
+- **Tech Stack:** React, Tailwind CSS, Firebase, Express.js, React Router DOM, Vite
+
+### 📌 Overview
+Pathshala Official is a modern educational platform built with a focus on user authentication, secure routes, and a sleek, responsive design. The project integrates **Firebase Authentication** to ensure secure user sign-ins and incorporates **protected routes** to safeguard content access. It features a responsive UI that adapts seamlessly across devices, offering an efficient learning platform experience.
+
+### 🧩 Key Features
+- **Firebase Authentication:** Secure user authentication system for easy and safe sign-ins.
+- **Protected Routes:** Ensures that users can only access authorized content by enforcing secure route handling.
+- **Responsive UI:** Clean, mobile-friendly design built with **Tailwind CSS**, inspired by **Shikho** for smooth navigation and a modern look.
+- **PDF Generation & Printing:** Allows users to generate and print PDFs of important content using **React to PDF** and **React to Print**.
+  
+> ⚠️ **Note:** The platform is designed to provide a great user experience but may have future updates to introduce more advanced features like user roles and admin management.
+
+### ⚙️ Engineering Wins
+- **Seamless Authentication:** Integrated Firebase for authentication, providing an easy-to-implement and secure sign-in flow.
+- **Express Backend:** A robust backend built with **Express.js** to handle necessary server-side operations, including user data management.
+- **Vite Build Tool:** Used **Vite** for fast development builds and optimized production performance.
+
+### 📈 Impact & Vision
+- The platform provides a secure and efficient learning environment, ensuring a smooth experience for students and educators alike.
+- Aims to expand functionality in future versions, including features such as content management, role-based access control, and improved PDF features.
+
+</details>
+
+<details>
+  <summary><strong>TipTap Rich Text Editor Components</strong> — <em>Custom Modular WYSIWYG Tools</em></summary>
+  <br>
+
+- **Live Demo:** [tip-tap-editors.vercel.app](https://tip-tap-editors.vercel.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/tip-tap-editors](https://github.com/taiyebnirjhar/tip-tap-editors)
+- **Tech Stack:** TipTap, React (TypeScript), Tailwind CSS
+
+### 📌 Overview
+A customizable collection of rich text editor components built on **TipTap**, tailored for different use cases — from lightweight comment inputs to full-scale blog or CMS editors. Developed as a personal toolset to streamline content management while maintaining codebase flexibility and UI consistency.
+
+Includes two pre-configured editors:
+- **Full Editor:** Feature-rich with complete WYSIWYG capabilities
+- **Minimal Editor:** Clean, focused interface for basic input
+
+### 🧩 Key Features
+
+#### 🖋️ Full Editor
+- Advanced formatting: headings, bold, italic, underline, strike-through
+- Alignment controls & lists
+- Font customization: type, size, text & background color
+- Insert images and hyperlinks
+- HTML view/edit support
+- Code block support
+- Undo/redo functionality
+- Zoom & preview modes
+
+#### ✏️ Minimal Editor
+- Core formatting (bold, italic, underline)
+- List support (ordered & unordered)
+- Text alignment
+- Lightweight and fast — ideal for inline or embedded use
+
+> ⚠️ **Note:** These components are built with reusability in mind — easily themeable via Tailwind and ready for integration into larger apps or CMS solutions.
+
+### ⚙️ Engineering Wins
+- Modular structure: editors can be imported independently based on need.
+- Theme-aware and **fully responsive** out-of-the-box.
+- Clean abstraction of extensions and commands using TipTap plugin APIs.
+- Type-safe component props with full TypeScript support.
+
+### 📈 Impact & Vision
+- Created to **replace heavy, non-performant editors** in dashboards and writing tools.
+- Currently used in multiple internal tools, reducing integration time by 50%.
+- Vision: evolve into a plug-and-play, headless TipTap toolkit with UI freedom for devs building CMS, blog, or collaborative tools.
+
+</details>
+
+
 ---
 
 ### 🚀 Tech Stack
