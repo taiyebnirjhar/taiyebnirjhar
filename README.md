@@ -112,7 +112,7 @@ const aboutMe = () => ({
 ## 💵 Top Personal Projects  
 
 <details>
-  <summary><strong>Clarity Board</strong> — <em>Mind Mapping + AI-Powered Task Management</em></summary>
+  <summary><strong>Clarity Board AI</strong> — <em>Mind Mapping + AI-Powered Task Management</em></summary>
   <br>
 
 - **Live Demo:** [clarity-board-ai.vercel.app](https://clarity-board-ai.vercel.app/)
