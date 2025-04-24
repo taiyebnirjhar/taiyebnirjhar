@@ -52,7 +52,7 @@ const aboutMe = () => ({
 ## 💼 Work Experience  
 
 <details>
-  <summary><strong>👨‍💻 Zorg IT Group</strong> — <em>Frontend Lead (Full-Time)</em> | <code>Dec 2024 – Present</code></summary>
+  <summary><strong>Zorg IT Group</strong> — <em>Frontend Lead (Full-Time)</em> | <code>Dec 2024 – Present</code></summary>
 <br>
 
 - **Tech Stack:** React.js, Next.js, TypeScript, Redux, Hugging Face
@@ -65,7 +65,7 @@ const aboutMe = () => ({
 </details>
 
 <details>
-  <summary><strong>💼 B-Block</strong> — <em>React Developer (Full-Time)</em> | <code>Apr 2023 – Mar 2025</code></summary>
+  <summary><strong>B-Block</strong> — <em>React Developer (Full-Time)</em> | <code>Apr 2023 – Mar 2025</code></summary>
 <br>
 
 - **Tech Stack:** React.js, Next.js, TypeScript, Redux
@@ -79,7 +79,7 @@ const aboutMe = () => ({
 </details>
 
 <details>
-  <summary><strong>🌐 China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code>Nov 2022 – Sep 2023</code></summary>
+  <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code>Nov 2022 – Sep 2023</code></summary>
 <br>
 
 - **Tech Stack:** Next.js, Tailwind CSS, Firebase
@@ -93,7 +93,7 @@ const aboutMe = () => ({
 </details>
 
 <details>
-  <summary><strong>🧠 ITO Digital Agency</strong> — <em>Frontend Developer (Contract)</em> | <code>Feb 2023 – Apr 2023</code></summary>
+  <summary><strong>ITO Digital Agency</strong> — <em>Frontend Developer (Contract)</em> | <code>Feb 2023 – Apr 2023</code></summary>
 
 <br>
 
@@ -104,6 +104,42 @@ const aboutMe = () => ({
 - 🌐 Revamped the agency's **official website**, enhancing brand presence.
 - 📊 Maintained strong remote workflows with Git and effective feedback loops.
 
+
+</details>
+
+---
+
+## 💵 Top Personal Projects  
+
+<details>
+  <summary><strong>Clarity Board</strong> — <em>Mind Mapping + AI-Powered Task Management</em></summary>
+  <br>
+
+- **Live Demo:** [clarity-board-ai.vercel.app](https://clarity-board-ai.vercel.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/clarity-board-ai](https://github.com/taiyebnirjhar/clarity-board-ai)
+- **Tech Stack:** Next.js (App Router), React, TypeScript, Firebase, Hugging Face, Tailwind CSS, DnD Kit, Framer Motion
+
+### 📌 Overview
+A next-gen productivity app that combines **spatial task mapping** with an AI assistant named **MaximumEffort**—think Deadpool trapped in your to-do list. Offers dual views: a **Mind Cloud** for visual thinkers and an **Organized View** for prioritizers.
+
+### 🧩 Key Features
+- **AI Assistant (MaximumEffort):** Roasts your productivity, mocks self-help clichés, and breaks the fourth wall like it’s his job.
+- **Mind Cloud Canvas:** Drag-and-drop spatial interface for tasks—built with DND Kit & optimized with virtualization.
+- **Offline-First:** Full functionality offline with Firebase sync.
+- **Multi-Tier AI Fallback:** Hugging Face model cascade to ensure reliability under API rate limits.
+- **Real-Time Updates:** Firestore-powered with adaptive UI for various screen sizes.
+
+> ⚠️ **Note:** Currently optimized for desktop. Mobile experience is limited but on the roadmap.
+
+### ⚙️ Engineering Wins
+- Achieved **60fps** performance on the Mind Cloud using custom virtualized rendering strategies.
+- Built a robust **error boundary system** for graceful component-level recovery.
+- Designed with **PWA principles** and **progressive enhancement** in mind.
+
+### 📈 Impact & Vision
+- Reduces context switching by combining brainstorming and task execution into one platform.
+- Boosts engagement with a personality-driven AI that makes productivity unexpectedly fun.
+- Built with future features in mind: real-time team collaboration, calendar sync, and enterprise-level reporting.
 
 </details>
 
