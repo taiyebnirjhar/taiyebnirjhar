@@ -144,6 +144,43 @@ A next-gen productivity app that combines **spatial task mapping** with an AI as
 </details>
 
 <details>
+  <summary><strong>Block X Bluster</strong> — <em>Arcade-style PWA Shooting Game</em></summary>
+  <br>
+
+- **Live Demo:** [block-x-bluster.vercel.app](https://block-x-bluster.vercel.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/block-x-bluster](https://github.com/taiyebnirjhar/block-x-bluster)
+- **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, PWA, Web Audio API
+
+### 🧠 Vibe Coded Project — Smart, Fast & Fun
+Block X Bluster is a fast-paced arcade shooter built with React and Next.js, showcasing modern frontend game dev with **smart vibe coding**—a skill that's becoming more valuable in the creative dev space. Designed as a Progressive Web App (PWA), this game runs beautifully across devices, offers offline play, and features touch & keyboard controls for a seamless experience.
+
+### 🔥 Gameplay Highlights
+- **PWA & Offline Support:** Works like a native app and stores game assets locally
+- **Power-Ups Galore:**
+  - 🔥 Fire Speed – rapid bullets
+  - 🔱 Multi-Directional – triple-fire action
+  - ⏱️ Slow Motion – freeze time matrix-style
+- **Touch + Keyboard Input:** Smooth cross-platform interaction
+- **Dynamic Difficulty:** Gets harder the longer you survive
+- **Lightweight Yet Powerful:** Smooth performance, even on low-end devices
+
+### 🛠️ Engineering & Dev Skills
+- **TypeScript + Next.js:** Ensures scalable architecture and typed safety
+- **Web Audio API Integration:** Custom sound effects and music handling
+- **Tailwind CSS:** For fluid, responsive, pixel-perfect styling
+- **Service Workers:** For caching, installability, and offline support
+- **Game Loop & State Management:** Managed directly within React hooks and refs
+
+> 🧠 *This was built using smart vibe coding — starting with creative vision and engineering intuition before even opening Figma.*
+
+### 🚀 Why It Matters
+- Proves how far modern frontend stacks can go — even for building full games
+- Demonstrates strong grasp of interactivity, animation, real-time logic, and PWA fundamentals
+- Highlights your adaptability in fun and functional frontend development outside the usual CRUD apps
+
+</details>
+
+<details>
   <summary><strong>Photo Form</strong> — <em>Professional Photo Editing Made Easy</em></summary>
   <br>
 
@@ -205,6 +242,8 @@ Pathshala Official is a modern educational platform built with a focus on user a
 - Aims to expand functionality in future versions, including features such as content management, role-based access control, and improved PDF features.
 
 </details>
+
+
 
 <details>
   <summary><strong>TipTap Rich Text Editor Components</strong> — <em>Custom Modular WYSIWYG Tools</em></summary>
