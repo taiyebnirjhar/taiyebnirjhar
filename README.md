@@ -222,6 +222,36 @@ Block X Bluster is a fast-paced arcade shooter built with React and Next.js, sho
 </details>
 
 <details>
+  <summary><strong>Virtual Try-On Using AI</strong> — <em>AI-Powered Fashion Tech</em></summary>
+  <br>
+
+- **Frontend Repo:** [github.com/taiyebnirjhar/virtual-try-on-client](https://github.com/taiyebnirjhar/virtual-try-on-client)
+- **Backend Repo:** [github.com/taiyebnirjhar/virtual-try-on-server](https://github.com/taiyebnirjhar/virtual-try-on-server)
+- **Tech Stack:** Next.js, Shadcn, Express, @gradio/client, Hugging Face API
+
+### 📌 Overview
+A fashion tech project that enables users to upload an image and a garment to visualize how they would look wearing the garment, powered by AI from Hugging Face. The application creates a realistic output of the virtual try-on experience.
+
+### 🧩 Key Features
+- **Image & Garment Upload:** Simple and seamless process for uploading images and garments.
+- **Realistic Try-On Generation:** Uses AI to superimpose the garment on the user's image.
+- **Responsive UI:** Optimized for various screen sizes, ensuring an excellent user experience.
+
+### ⚠️ Limitations & Challenges
+- **Response Time:** Can take up to **60 seconds** due to third-party API processing.
+- **Quota Limitations:** The project uses an open-source Hugging Face model, meaning there are usage restrictions that affect the experience.
+
+### ⚙️ Engineering Wins
+- Successfully integrated **Hugging Face's AI model** into the workflow.
+- Built an intuitive **frontend UI** with Shadcn for seamless interactions.
+
+### 📈 Future Plans
+- **Optimize Response Time:** Implement in-house AI models or utilize better infrastructure to reduce wait times.
+- **Expand Garment Support:** Introduce more garment types and styles for a more versatile try-on experience.
+
+</details>
+
+<details>
   <summary><strong>Photo Form</strong> — <em>Professional Photo Editing Made Easy</em></summary>
   <br>
 
@@ -283,57 +313,6 @@ Pathshala Official is a modern educational platform built with a focus on user a
 - Aims to expand functionality in future versions, including features such as content management, role-based access control, and improved PDF features.
 
 </details>
-
-
-
-<details>
-  <summary><strong>TipTap Rich Text Editor Components</strong> — <em>Custom Modular WYSIWYG Tools</em></summary>
-  <br>
-
-- **Live Demo:** [tip-tap-editors.vercel.app](https://tip-tap-editors.vercel.app/)
-- **Public Repo:** [github.com/taiyebnirjhar/tip-tap-editors](https://github.com/taiyebnirjhar/tip-tap-editors)
-- **Tech Stack:** TipTap, React (TypeScript), Tailwind CSS
-
-### 📌 Overview
-A customizable collection of rich text editor components built on **TipTap**, tailored for different use cases — from lightweight comment inputs to full-scale blog or CMS editors. Developed as a personal toolset to streamline content management while maintaining codebase flexibility and UI consistency.
-
-Includes two pre-configured editors:
-- **Full Editor:** Feature-rich with complete WYSIWYG capabilities
-- **Minimal Editor:** Clean, focused interface for basic input
-
-### 🧩 Key Features
-
-#### 🖋️ Full Editor
-- Advanced formatting: headings, bold, italic, underline, strike-through
-- Alignment controls & lists
-- Font customization: type, size, text & background color
-- Insert images and hyperlinks
-- HTML view/edit support
-- Code block support
-- Undo/redo functionality
-- Zoom & preview modes
-
-#### ✏️ Minimal Editor
-- Core formatting (bold, italic, underline)
-- List support (ordered & unordered)
-- Text alignment
-- Lightweight and fast — ideal for inline or embedded use
-
-> ⚠️ **Note:** These components are built with reusability in mind — easily themeable via Tailwind and ready for integration into larger apps or CMS solutions.
-
-### ⚙️ Engineering Wins
-- Modular structure: editors can be imported independently based on need.
-- Theme-aware and **fully responsive** out-of-the-box.
-- Clean abstraction of extensions and commands using TipTap plugin APIs.
-- Type-safe component props with full TypeScript support.
-
-### 📈 Impact & Vision
-- Created to **replace heavy, non-performant editors** in dashboards and writing tools.
-- Currently used in multiple internal tools, reducing integration time by 50%.
-- Vision: evolve into a plug-and-play, headless TipTap toolkit with UI freedom for devs building CMS, blog, or collaborative tools.
-
-</details>
-
 
 ---
 
