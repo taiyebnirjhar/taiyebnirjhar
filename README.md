@@ -144,6 +144,47 @@ A next-gen productivity app that combines **spatial task mapping** with an AI as
 </details>
 
 <details>
+  <summary><strong>Web Builder GrapesJS</strong> — <em>Modern No-Code Website Builder</em></summary>
+  <br>
+
+- **Live Demo:** [web-builder-grapesjs.vercel.app](https://web-builder-grapesjs.vercel.app/)
+- **Public Repo:** [github.com/taiyebnirjhar/web-builder-grapesjs](https://github.com/taiyebnirjhar/web-builder-grapesjs)
+- **Tech Stack:** Next.js (App Router), React, TypeScript, GrapesJS, Tailwind CSS, Shadcn/UI
+
+### 📌 Overview
+A full-featured, drag-and-drop website builder inspired by Webflow and Wix, built for developers and non-coders alike. Powered by **GrapesJS**, this platform allows users to create stunning, responsive websites without touching a single line of code—unless they want to.
+
+### 🧩 Key Features
+- **Drag-and-Drop Editor:** Powered by GrapesJS with custom configuration for seamless UX.
+- **Live HTML/CSS/JS Preview:** Real-time syncing of visual and code-based edits.
+- **Rich Component & Block System:** Includes pre-built UI blocks—from navbars to CTAs—with room for extensibility.
+- **Responsive Design Tools:** Device simulator with fine-tuned breakpoints (desktop, tablet, mobile).
+- **Custom Templates:** Start from scratch or reuse saved templates across sessions.
+- **Export-Ready Code:** Generate clean HTML/CSS/JS files instantly.
+- **Developer Mode:** Toggle into code view and hack the layout however you want.
+
+> ⚙️ Blocks include: Basic layout elements, Media (image/video/map), Navigation, Hero sections, Feature lists, and even Premium UI kits.
+
+### ⚙️ Engineering Wins
+- Modular architecture with **separation of concerns** between UI, logic, and config.
+- Built-in **plugin loader** to support future GrapesJS plugins dynamically.
+- Optimized for **performance and scalability**, using lazy loading and custom hooks.
+- Advanced **block customization system** using `defaultBlocks` and isolated editor configs.
+
+### 🚀 Advanced Usage
+- Integrate custom plugins via `use-editor.ts` for full GrapesJS extensibility.
+- Create new component types by extending GrapesJS's native API.
+- Built to support **real-time collaboration**, export pipelines, and CMS integration in future versions.
+
+### 📈 Impact & Vision
+- Democratizes web creation for marketers, designers, and founders with zero dev background.
+- Lays the groundwork for a full SaaS builder with user auth, saved projects, and live deployment tools.
+- Potential to become a whitelabelable solution for agencies or internal builder tools.
+
+</details>
+
+
+<details>
   <summary><strong>Block X Bluster</strong> — <em>Arcade-style PWA Shooting Game</em></summary>
   <br>
 
