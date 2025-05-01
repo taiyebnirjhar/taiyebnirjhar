@@ -98,8 +98,8 @@ const aboutMe = () => ({
 <br>
 
 - **Tech Stack:** React.js, Context API, Vite, Netlify
-- 🎯 Developed **10+ SPAs**, significantly boosting user interaction.
-- 🔝 Contributed to **100+ client growth** through compelling web solutions.
+- 🎯 Developed **5+ SPAs**, significantly boosting user interaction.
+- 🔝 Contributed to **10+ client growth** through compelling web solutions.
 - 🚀 Led frontend builds with **React.js** and **Vite** for seamless UX.
 - 🌐 Revamped the agency's **official website**, enhancing brand presence.
 - 📊 Maintained strong remote workflows with Git and effective feedback loops.
