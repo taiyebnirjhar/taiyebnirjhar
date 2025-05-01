@@ -82,7 +82,7 @@ const aboutMe = () => ({
   <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code> 11 Sep 2023 – 18 Sep 2023</code></summary>
 <br>
 
-- **Tech Stack:** Next.js, Tailwind CSS, Firebase
+- **Tech Stack:** Next.js, Tailwind CSS, Redux
 - ⚡ Optimized e-commerce platform using **code splitting** and **caching**.
 - 🔧 Reduced redundant API calls, increasing performance efficiency.
 - 📱 Developed fully responsive UI components for various screen sizes.
