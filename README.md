@@ -79,7 +79,7 @@ const aboutMe = () => ({
 </details>
 
 <details>
-  <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code>Nov 2022 – Sep 2023</code></summary>
+  <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code> 11 Sep 2023 – 18 Sep 2023</code></summary>
 <br>
 
 - **Tech Stack:** Next.js, Tailwind CSS, Firebase
