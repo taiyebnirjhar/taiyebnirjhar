@@ -361,51 +361,30 @@ Pathshala Official is a modern educational platform built with a focus on user a
   <br>
 
   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&show_icons=true&theme=radical&hide_border=true" alt="Taiyeb's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taiyebnirjhar&theme=radical&hide_border=true" alt="Taiyeb's GitHub Streak" />
     <!-- GitHub Stats & Streak -->
-    <table>
-      <tr>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&show_icons=true&theme=radical&hide_border=true" alt="Taiyeb's GitHub Stats" />
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=taiyebnirjhar&theme=radical&hide_border=true" alt="Taiyeb's GitHub Streak" />
-        </td>
-      </tr>
-    </table>
-
+    
    <br>
    
-   <table>
-      <tr>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=dracula" width="400"/></td>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiyebnirjhar&theme=dracula" width="400"/></td>
-      </tr>
-      <tr>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiyebnirjhar&theme=dracula" width="400"/></td>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiyebnirjhar&theme=dracula&utcOffset=8" width="400"/></td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=dracula" width="800"/>
-        </td>
-      </tr>
-    </table>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=dracula" width="400"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiyebnirjhar&theme=dracula" width="400"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiyebnirjhar&theme=dracula" width="400"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiyebnirjhar&theme=dracula&utcOffset=8" width="400"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=dracula" width="800"/>
+        
 
    <br>
 
-   <table>
-      <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=dracula&hide=contribs,prs" width="400"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs" width="400"/></td>
-      </tr>
-    </table>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=dracula&hide=contribs,prs" width="800"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs" width="800"/>
+      
 
-   <br>
+   
 
-   <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=taiyebnirjhar&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-    </div>
+   
 
-  </div>
+  
 </details>
+
 
