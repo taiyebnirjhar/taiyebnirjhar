@@ -359,7 +359,6 @@ Pathshala Official is a modern educational platform built with a focus on user a
 <details>
   <summary>📈 Want to see more?</summary>
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&show_icons=true&theme=radical&hide_border=true" alt="Taiyeb's GitHub Stats" width="100%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taiyebnirjhar&theme=radical&hide_border=true" alt="Taiyeb's GitHub Streak" width="100%" />
    <br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiyebnirjhar&theme=dracula" width="100%"/>
@@ -369,7 +368,7 @@ Pathshala Official is a modern educational platform built with a focus on user a
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiyebnirjhar&theme=dracula" width="100%"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taiyebnirjhar&show_icons=true&theme=dracula&hide=contribs,prs" width="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=taiyebnirjhar&count_private=true&theme=tokyonight&hide=contribs,prs" width="100%"/>
+    
 </details>  
 
    
