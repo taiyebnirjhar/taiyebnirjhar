@@ -10,35 +10,53 @@
 
 # 🔥 Taiyeb Nirjhor  
 ### *Front-End Developer | Software Engineer*  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Building+Innovative+Web+Apps;User-Friendly+and+Optimized+Interfaces;Code+Craftsmanship+for+Better+Software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&repeat=false&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+build+systems+that+scale;Turn+ambiguity+into+clarity;And+last+beyond+the+next+release)
 
 
 </div> 
 
 <div align="center">
-  <a href="https://taiyebnirjhar.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
+
   <a href="https://www.facebook.com/mdtaiyebnirjhor" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/taiyeb-nirjhor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:taiyebnirjhor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Gmail" />
   </a>
-</div>
+  <a href="https://taiyebnirjhor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 ## 🧑‍💻 About Me  
-```js
-const aboutMe = () => ({
+```jsx
+const AboutMe = () => ({
   whoami: "Taiyeb Nirjhor",
   role: "Frontend Developer | UI Engineer | Software Engineer",
-  techStack: ["React.js", "Next.js", "TypeScript", "Tailwind", "Redux", "MongoDB", "Node.js"],
-  softSkills: ["Clean Code", "System Design", "Software Engineering Principles"],
+  techStack: [
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Redux / RTK Query",
+    "Tailwind CSS",
+    "Zod",
+    "Radix UI",
+    "shadcn/ui",
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    "MongoDB",
+  ],
+  softSkills: [
+    "Clean Code",
+    "System Design",
+    "Software Engineering Principles",
+  ],
 });
 ```
 ### ❤️ Wanna Know more ?
@@ -317,34 +335,36 @@ Pathshala Official is a modern educational platform built with a focus on user a
 ---
 
 ### 🚀 Tech Stack
-
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
-[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#) 
-[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
-[![Zod Badge](https://img.shields.io/badge/Zod-593D88?style=for-the-badge&logo=proto.io&logoColor=white)](#) 
-[![Radix UI Badge](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix&logoColor=white)](#)  
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) 
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
+[![Zod Badge](https://img.shields.io/badge/Zod-593D88?style=for-the-badge&logo=proto.io&logoColor=white)](#)
+[![Radix UI Badge](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix&logoColor=white)](#)
+[![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 ---
 
 ### 🛠 Tools & Environment
 
-<p align="left"> 
-  <a href="https://www.canva.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="25" height="25"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/> 
-  </a> 
+<p align="left">
+  <a href="https://www.canva.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="25" height="25"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/>
   </a>
 </p>
 
