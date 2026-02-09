@@ -139,208 +139,168 @@ const AboutMe = () => ({
 
 ---
 
-## 💵 Top Personal Projects  
+## 💵 Top Personal Projects
 
 <details>
   <summary><strong>Clarity Board AI</strong> — <em>Mind Mapping + AI-Powered Task Management</em></summary>
-  <br>
+<br>
 
 - **Live Demo:** [clarity-board-ai.vercel.app](https://clarity-board-ai.vercel.app/)
 - **Public Repo:** [github.com/taiyebnirjhar/clarity-board-ai](https://github.com/taiyebnirjhar/clarity-board-ai)
-- **Tech Stack:** Next.js (App Router), React, TypeScript, Firebase, Hugging Face, Tailwind CSS, DnD Kit, Framer Motion
 
-### 📌 Overview
-A next-gen productivity app that combines **spatial task mapping** with an AI assistant named **MaximumEffort**—think Deadpool trapped in your to-do list. Offers dual views: a **Mind Cloud** for visual thinkers and an **Organized View** for prioritizers.
+### Overview
 
-### 🧩 Key Features
-- **AI Assistant (MaximumEffort):** Roasts your productivity, mocks self-help clichés, and breaks the fourth wall like it’s his job.
-- **Mind Cloud Canvas:** Drag-and-drop spatial interface for tasks—built with DND Kit & optimized with virtualization.
-- **Offline-First:** Full functionality offline with Firebase sync.
-- **Multi-Tier AI Fallback:** Hugging Face model cascade to ensure reliability under API rate limits.
-- **Real-Time Updates:** Firestore-powered with adaptive UI for various screen sizes.
+Clarity Board AI is a next-generation productivity platform combining **spatial task mapping** with an **AI assistant**. It provides two complementary interfaces: a **Mind Cloud** for visual organization and an **Organized View** for structured task management.
 
-> ⚠️ **Note:** Currently optimized for desktop. Mobile experience is limited but on the roadmap.
+### Key Features
 
-### ⚙️ Engineering Wins
-- Achieved **60fps** performance on the Mind Cloud using custom virtualized rendering strategies.
-- Built a robust **error boundary system** for graceful component-level recovery.
-- Designed with **PWA principles** and **progressive enhancement** in mind.
+- **AI Assistant:** Provides intelligent task suggestions and productivity insights.
+- **Mind Cloud Canvas:** Drag-and-drop spatial interface for task organization, optimized with virtualization.
+- **Offline-First:** Full offline functionality with real-time Firebase synchronization.
+- **Reliable AI Fallbacks:** Multi-tier Hugging Face model cascade to handle API rate limits gracefully.
+- **Responsive Real-Time Updates:** Firestore-powered updates with adaptive UI across screen sizes.
 
-### 📈 Impact & Vision
-- Reduces context switching by combining brainstorming and task execution into one platform.
-- Boosts engagement with a personality-driven AI that makes productivity unexpectedly fun.
-- Built with future features in mind: real-time team collaboration, calendar sync, and enterprise-level reporting.
+### Engineering Highlights
+
+- Achieved **smooth 60fps performance** on the Mind Cloud using custom virtualized rendering strategies.
+- Implemented a **robust error boundary system** for component-level recovery.
+- Designed with **PWA principles** and **progressive enhancement** for future scalability.
+
+### Impact & Vision
+
+- Integrates brainstorming and task execution into a single platform, reducing context switching.
+- Enhances user engagement through an AI-driven, interactive experience.
+- Built for scalability with future features planned: real-time collaboration, calendar integration, and enterprise-level reporting.
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+  ![DnD Kit](https://img.shields.io/badge/DnD%20Kit-000000?style=for-the-badge&logo=react&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </details>
 
 <details>
   <summary><strong>Web Builder GrapesJS</strong> — <em>Modern No-Code Website Builder</em></summary>
-  <br>
+<br>
 
 - **Live Demo:** [web-builder-grapesjs.vercel.app](https://web-builder-grapesjs.vercel.app/)
 - **Public Repo:** [github.com/taiyebnirjhar/web-builder-grapesjs](https://github.com/taiyebnirjhar/web-builder-grapesjs)
-- **Tech Stack:** Next.js (App Router), React, TypeScript, GrapesJS, Tailwind CSS, Shadcn/UI
 
-### 📌 Overview
-A full-featured, drag-and-drop website builder inspired by Webflow and Wix, built for developers and non-coders alike. Powered by **GrapesJS**, this platform allows users to create stunning, responsive websites without touching a single line of code—unless they want to.
+### Overview
 
-### 🧩 Key Features
-- **Drag-and-Drop Editor:** Powered by GrapesJS with custom configuration for seamless UX.
-- **Live HTML/CSS/JS Preview:** Real-time syncing of visual and code-based edits.
-- **Rich Component & Block System:** Includes pre-built UI blocks—from navbars to CTAs—with room for extensibility.
-- **Responsive Design Tools:** Device simulator with fine-tuned breakpoints (desktop, tablet, mobile).
-- **Custom Templates:** Start from scratch or reuse saved templates across sessions.
-- **Export-Ready Code:** Generate clean HTML/CSS/JS files instantly.
-- **Developer Mode:** Toggle into code view and hack the layout however you want.
+A modular, drag-and-drop website builder designed for developers and non-coders alike. Powered by **GrapesJS**, it enables creation of fully responsive websites while maintaining code quality and extensibility.
 
-> ⚙️ Blocks include: Basic layout elements, Media (image/video/map), Navigation, Hero sections, Feature lists, and even Premium UI kits.
+### Key Features
 
-### ⚙️ Engineering Wins
-- Modular architecture with **separation of concerns** between UI, logic, and config.
-- Built-in **plugin loader** to support future GrapesJS plugins dynamically.
-- Optimized for **performance and scalability**, using lazy loading and custom hooks.
-- Advanced **block customization system** using `defaultBlocks` and isolated editor configs.
+- **Drag-and-Drop Editor:** Custom GrapesJS configuration for seamless UI and UX.
+- **Live Code Preview:** Real-time synchronization between visual editor and HTML/CSS/JS.
+- **Component & Block System:** Pre-built UI blocks with support for custom extensions.
+- **Responsive Tools:** Device simulator with breakpoints for desktop, tablet, and mobile.
+- **Template System:** Save and reuse custom templates across sessions.
+- **Export-Ready Code:** Generates clean HTML/CSS/JS for immediate deployment.
+- **Developer Mode:** Full access to code for advanced customizations.
 
-### 🚀 Advanced Usage
-- Integrate custom plugins via `use-editor.ts` for full GrapesJS extensibility.
-- Create new component types by extending GrapesJS's native API.
-- Built to support **real-time collaboration**, export pipelines, and CMS integration in future versions.
+### Engineering Highlights
 
-### 📈 Impact & Vision
-- Democratizes web creation for marketers, designers, and founders with zero dev background.
-- Lays the groundwork for a full SaaS builder with user auth, saved projects, and live deployment tools.
-- Potential to become a whitelabelable solution for agencies or internal builder tools.
+- Modular architecture with clear **separation of concerns** between UI, logic, and configuration.
+- Built-in **plugin loader** for dynamic GrapesJS plugin integration.
+- Optimized for **performance and scalability** using lazy loading and efficient state management.
+- Advanced **block customization system** with isolated editor configurations for maintainability.
+
+### Impact & Vision
+
+- Simplifies website creation for agencies, marketers, and non-technical users.
+- Designed for scalability into a SaaS platform with project saving, deployment, and multi-tenant support.
+- Foundation for whitelabel or internal web builder solutions for agencies.
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![GrapesJS](https://img.shields.io/badge/GrapesJS-000000?style=for-the-badge&logo=grapesjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+  ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </details>
 
-
 <details>
   <summary><strong>Block X Bluster</strong> — <em>Arcade-style PWA Shooting Game</em></summary>
-  <br>
+<br>
 
 - **Live Demo:** [block-x-bluster.vercel.app](https://block-x-bluster.vercel.app/)
 - **Public Repo:** [github.com/taiyebnirjhar/block-x-bluster](https://github.com/taiyebnirjhar/block-x-bluster)
 - **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, PWA, Web Audio API
 
-### 🧠 Vibe Coded Project — Smart, Fast & Fun
-Block X Bluster is a fast-paced arcade shooter built with React and Next.js, showcasing modern frontend game dev with **smart vibe coding**—a skill that's becoming more valuable in the creative dev space. Designed as a Progressive Web App (PWA), this game runs beautifully across devices, offers offline play, and features touch & keyboard controls for a seamless experience.
+### Overview
 
-### 🔥 Gameplay Highlights
-- **PWA & Offline Support:** Works like a native app and stores game assets locally
-- **Power-Ups Galore:**
-  - 🔥 Fire Speed – rapid bullets
-  - 🔱 Multi-Directional – triple-fire action
-  - ⏱️ Slow Motion – freeze time matrix-style
-- **Touch + Keyboard Input:** Smooth cross-platform interaction
-- **Dynamic Difficulty:** Gets harder the longer you survive
-- **Lightweight Yet Powerful:** Smooth performance, even on low-end devices
+Block X Bluster is a fast-paced, arcade-style shooting game built with React and Next.js, implemented as a **Progressive Web App**. It showcases advanced frontend techniques, real-time state management, and cross-device performance optimization.
 
-### 🛠️ Engineering & Dev Skills
-- **TypeScript + Next.js:** Ensures scalable architecture and typed safety
-- **Web Audio API Integration:** Custom sound effects and music handling
-- **Tailwind CSS:** For fluid, responsive, pixel-perfect styling
-- **Service Workers:** For caching, installability, and offline support
-- **Game Loop & State Management:** Managed directly within React hooks and refs
+### Key Features
 
-> 🧠 *This was built using smart vibe coding — starting with creative vision and engineering intuition before even opening Figma.*
+- **Progressive Web App:** Offline-first, installable, with service worker caching.
+- **Cross-Platform Controls:** Touch and keyboard input support.
+- **Dynamic Gameplay Mechanics:** Multiple power-ups, difficulty scaling, and responsive game loop.
+- **Audio Integration:** Custom sound effects via Web Audio API.
+- **Performance Optimized:** Smooth 60fps rendering on low-end and high-end devices.
 
-### 🚀 Why It Matters
-- Proves how far modern frontend stacks can go — even for building full games
-- Demonstrates strong grasp of interactivity, animation, real-time logic, and PWA fundamentals
-- Highlights your adaptability in fun and functional frontend development outside the usual CRUD apps
+### Engineering Highlights
+
+- **Typed Architecture:** TypeScript + Next.js ensures maintainability and scalability.
+- **State Management:** Game loop and interactions managed efficiently using React hooks and refs.
+- **Responsive Styling:** Tailwind CSS for fluid and adaptive UI across devices.
+- **Offline & Installable:** Leveraged service workers for caching and PWA compliance.
+- **Modular Codebase:** Structured for future enhancements, including multiplayer and analytics features.
+
+### Impact
+
+- Demonstrates advanced real-time frontend capabilities beyond standard CRUD apps.
+- Highlights expertise in PWA, animation, interactivity, and performance optimization.
+- Validates ability to implement complex, high-performance UI/UX projects.
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 </details>
 
 <details>
   <summary><strong>Virtual Try-On Using AI</strong> — <em>AI-Powered Fashion Tech</em></summary>
-  <br>
+<br>
 
 - **Frontend Repo:** [github.com/taiyebnirjhar/virtual-try-on-client](https://github.com/taiyebnirjhar/virtual-try-on-client)
 - **Backend Repo:** [github.com/taiyebnirjhar/virtual-try-on-server](https://github.com/taiyebnirjhar/virtual-try-on-server)
-- **Tech Stack:** Next.js, Shadcn, Express, @gradio/client, Hugging Face API
 
-### 📌 Overview
-A fashion tech project that enables users to upload an image and a garment to visualize how they would look wearing the garment, powered by AI from Hugging Face. The application creates a realistic output of the virtual try-on experience.
+### Overview
 
-### 🧩 Key Features
-- **Image & Garment Upload:** Simple and seamless process for uploading images and garments.
-- **Realistic Try-On Generation:** Uses AI to superimpose the garment on the user's image.
-- **Responsive UI:** Optimized for various screen sizes, ensuring an excellent user experience.
+A fashion technology platform that enables users to virtually try on garments by uploading an image and selected clothing. Powered by AI models from Hugging Face, the system generates realistic visualizations while maintaining a responsive and intuitive interface.
 
-### ⚠️ Limitations & Challenges
-- **Response Time:** Can take up to **60 seconds** due to third-party API processing.
-- **Quota Limitations:** The project uses an open-source Hugging Face model, meaning there are usage restrictions that affect the experience.
+### Key Features
 
-### ⚙️ Engineering Wins
-- Successfully integrated **Hugging Face's AI model** into the workflow.
-- Built an intuitive **frontend UI** with Shadcn for seamless interactions.
+- **Image & Garment Upload:** Seamless and secure upload flow for user images and garments.
+- **AI-Powered Rendering:** Accurate garment overlay using Hugging Face models.
+- **Responsive UI:** Adaptive interface optimized across devices and screen sizes.
+- **Integration with Backend:** Express server managing AI model requests and data flow.
 
-### 📈 Future Plans
-- **Optimize Response Time:** Implement in-house AI models or utilize better infrastructure to reduce wait times.
-- **Expand Garment Support:** Introduce more garment types and styles for a more versatile try-on experience.
+### Engineering Highlights
 
-</details>
+- Successfully integrated **third-party AI models** for realistic try-on generation.
+- Designed a **modular frontend architecture** with Shadcn/UI for maintainability and extensibility.
+- Optimized asynchronous requests and error handling for smoother user experience.
+- Structured backend communication for scalability and future multi-garment support.
 
-<details>
-  <summary><strong>Photo Form</strong> — <em>Professional Photo Editing Made Easy</em></summary>
-  <br>
+### Impact & Future Plans
 
-- **Live Demo:** [photo-form.vercel.app](https://photo-form.vercel.app/)
-- **Public Repo:** [github.com/taiyebnirjhar/photo-form](https://github.com/taiyebnirjhar/photo-form)
-- **Tech Stack:** Next.js, Tailwind CSS, Sharp, html2canvas, Radix UI, Framer Motion
+- Provides a highly interactive and personalized virtual try-on experience.
+- Future improvements include reducing AI processing time and expanding garment categories.
+- Lays the foundation for advanced AI-driven fashion applications.
 
-### 📌 Overview
-Photo Form is a web application designed to help users effortlessly create professional, polished photos. With a few clicks, users can remove backgrounds, adjust image sizes, add custom backgrounds, and integrate formal elements like suits to enhance the image. The app is currently an MVP but provides a solid foundation for future enhancements.
-
-### 🧩 Key Features
-- **Background Removal:** Automatically remove the background of any uploaded image with ease.
-- **Image Adjustments:** Resize, reposition, and apply custom backgrounds to personalize the photo.
-- **Element Integration:** Add formal attire like suits to turn any casual image into a professional-looking photo.
-- **Customizable Backgrounds:** Choose from a variety of predefined backgrounds or upload your own for complete personalization.
-- **Screen Size Selection:** Tailor the output photo for various devices, including desktop, tablet, and mobile, ensuring the perfect fit for any platform.
-
-> ⚠️ **Note:** The project is an MVP and currently features limited functionality. Future updates will expand on these features to improve user experience and customization.
-
-### ⚙️ Engineering Wins
-- **Seamless Background Removal:** Integrated a third-party API to automate background removal with high accuracy.
-- **Image Processing Power:** Used **Sharp** and **html2canvas** for fast and reliable image processing and rendering.
-- **Responsive Design:** Fully responsive UI, designed with **Tailwind CSS**, ensures smooth interactions across devices and screen sizes.
-- **Smooth Animations:** Incorporates **Framer Motion** for fluid and engaging transitions and interactions.
-
-### 📈 Impact & Vision
-- Streamlines the process of creating professional-looking photos, making it accessible to everyone.
-- Future versions will introduce additional features such as advanced image editing, more formal clothing options, and higher-quality image processing.
-- Aims to serve as a simple and efficient tool for creating polished photos without the need for expensive software or professional assistance.
-
-</details>
-
-<details>
-  <summary><strong>Pathshala Official</strong> — <em>Modern Educational Platform</em></summary>
-  <br>
-
-- **Live Demo:** [pathshala-official.web.app](https://pathshala-official.web.app/)
-- **Public Repo:** [github.com/taiyebnirjhar/pathshala-official](https://github.com/taiyebnirjhar/pathshala-official)
-- **Tech Stack:** React, Tailwind CSS, Firebase, Express.js, React Router DOM, Vite
-
-### 📌 Overview
-Pathshala Official is a modern educational platform built with a focus on user authentication, secure routes, and a sleek, responsive design. The project integrates **Firebase Authentication** to ensure secure user sign-ins and incorporates **protected routes** to safeguard content access. It features a responsive UI that adapts seamlessly across devices, offering an efficient learning platform experience.
-
-### 🧩 Key Features
-- **Firebase Authentication:** Secure user authentication system for easy and safe sign-ins.
-- **Protected Routes:** Ensures that users can only access authorized content by enforcing secure route handling.
-- **Responsive UI:** Clean, mobile-friendly design built with **Tailwind CSS**, inspired by **Shikho** for smooth navigation and a modern look.
-- **PDF Generation & Printing:** Allows users to generate and print PDFs of important content using **React to PDF** and **React to Print**.
-  
-> ⚠️ **Note:** The platform is designed to provide a great user experience but may have future updates to introduce more advanced features like user roles and admin management.
-
-### ⚙️ Engineering Wins
-- **Seamless Authentication:** Integrated Firebase for authentication, providing an easy-to-implement and secure sign-in flow.
-- **Express Backend:** A robust backend built with **Express.js** to handle necessary server-side operations, including user data management.
-- **Vite Build Tool:** Used **Vite** for fast development builds and optimized production performance.
-
-### 📈 Impact & Vision
-- The platform provides a secure and efficient learning environment, ensuring a smooth experience for students and educators alike.
-- Aims to expand functionality in future versions, including features such as content management, role-based access control, and improved PDF features.
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </details>
 
