@@ -67,61 +67,73 @@ const AboutMe = () => ({
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience
 
 <details>
   <summary><strong>Zorg IT Group</strong> — <em>Frontend Lead (Full-Time)</em> | <code>Dec 2024 – Present</code></summary>
-<br>
 
-- **Tech Stack:** React.js, Next.js, TypeScript, Redux, Hugging Face
-- 🌍 Led frontend development for **"HeyJabi"**, an international e-commerce platform.
-- 🔗 Implemented APIs and optimized UI components for performance.
-- 🐞 Resolved critical bugs, improving system stability and reliability.
-- 📈 Currently building a CMS for user management, articles, and services.
-- 🤖 Integrated AI-powered features like customer support and business insights.
+- Led a frontend team in modernizing legacy
+  **E-commerce Platform** : optimized performance under heavy API loads, implemented caching strategies, improved UI/UX, and elevated Lighthouse scores to 98+.
+- Architected and maintained a scalable **Headless CMS** powering 30+ multi-tenant agency websites, including dynamic modules for Articles, Podcasts, FAQs, SEO, and Headlines, as well as a lightweight Page Builder with GrapesJS.
+- Currently driving the frontend development of the Nodi AI **Lead Management System**: end-to-end lead capture from forms and social channels, AI-powered messaging, sales workflow management, and analytics dashboards.
 
-</details>
-
-<details>
-  <summary><strong>B-Block</strong> — <em>React Developer (Full-Time)</em> | <code>Apr 2023 – Mar 2025</code></summary>
-<br>
-
-- **Tech Stack:** React.js, Next.js, TypeScript, Redux
-- 🚀 Led major projects: CV Builder, Grocery POS, Restaurant POS, and eCommerce platform.
-- 📈 Boosted user engagement by **20%** and improved retention by **25%**.
-- ⚡ Optimized page load speed by **30%**, enhancing SEO performance.
-- 🛠️ Streamlined resume creation with **15+ templates**, improving build efficiency by **25%**.
-- 💰 Reduced POS transaction errors by **40%**, increasing online sales by **50%**.
-- 📅 Delivered projects **20% ahead of schedule**, cutting costs by **15%**.
+  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+  ![Zod](https://img.shields.io/badge/Zod-593D88?style=for-the-badge&logo=proto.io&logoColor=white)
+  ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![GrapesJS](https://img.shields.io/badge/GrapesJS-000000?style=for-the-badge&logo=grapesjs&logoColor=white)
+  ![Tiptap Editor](https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white)
+  ![N8N](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
 </details>
 
 <details>
-  <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code> 11 Sep 2023 – 18 Sep 2023</code></summary>
-<br>
+  <summary><strong>China Online BD</strong> — <em>Assistant Frontend Dev (Part-time)</em> | <code>11 Sep 2023 – 18 Sep 2023</code></summary>
 
-- **Tech Stack:** Next.js, Tailwind CSS, Redux
-- ⚡ Optimized e-commerce platform using **code splitting** and **caching**.
-- 🔧 Reduced redundant API calls, increasing performance efficiency.
-- 📱 Developed fully responsive UI components for various screen sizes.
-- 🐞 Fixed UI overflow issues that affected 30% of users.
-- ⏱️ Delivered key features under tight deadlines, ensuring timely delivery.
+- Improved **Lighthouse performance scores** through code splitting, caching, and UI optimizations.
+- Reduced redundant API calls, improving application efficiency.
+- Fixed layout and overflow issues affecting a significant portion of users.
+- Delivered key features under tight deadlines, ensuring timely project completion.
 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 </details>
 
 <details>
-  <summary><strong>ITO Digital Agency</strong> — <em>Frontend Developer (Contract)</em> | <code>Feb 2023 – Apr 2023</code></summary>
+  <summary><strong>B-Block</strong> — <em>React Developer (Full-Time)</em> | <code>Apr 2023 – Dec 2024</code></summary>
 
-<br>
+- Developed an **Office Management System** for internal company use: employee management, attendance tracking, and service reporting integrated with company websites.
+- Built a **CV Builder platform**: dynamic templates, user-friendly editor, and real-time updates for personalized resumes.
+- Implemented a **Grocery POS system**: full business workflow including products, purchases, inventory, barcode generation, multi-role POS screens, daily balances, and online/offline synchronization for e-commerce integration.
+- Developed a **Restaurant POS system**: supports take-away, reservations, customizable orders (ingredient-level), kitchen collaboration, and seat management for high-traffic scenarios.
 
-- **Tech Stack:** React.js, Context API, Vite, Netlify
-- 🎯 Developed **5+ SPAs**, significantly boosting user interaction.
-- 🔝 Contributed to **10+ client growth** through compelling web solutions.
-- 🚀 Led frontend builds with **React.js** and **Vite** for seamless UX.
-- 🌐 Revamped the agency's **official website**, enhancing brand presence.
-- 📊 Maintained strong remote workflows with Git and effective feedback loops.
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+  ![Zod](https://img.shields.io/badge/Zod-593D88?style=for-the-badge&logo=proto.io&logoColor=white)
 
+</details>
+
+<details>
+  <summary><strong>ITO Digital Agency</strong> — <em>Frontend Developer (Internship)</em> | <code>Feb 2023 – Apr 2023</code></summary>
+
+- Contributed to **client websites**, delivering scalable and maintainable frontend solutions.
+- Built frontend architectures using **React.js** and **Vite**, ensuring smooth user experiences.
+- Redesigned the agency's **official website**, enhancing visual identity and brand presence.
+
+  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 </details>
 
